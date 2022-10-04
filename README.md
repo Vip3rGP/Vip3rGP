@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vip3rGP
 - 👀 I’m interested in Web Design Developement and Back End Programming
-- 🌱 I’m currently learning HTML, CSS, and JS soon to start SQL and PHP. Also currently learning Python
+- 🌱 I’m currently learning HTML, CSS, and JS soon to start SQL and PHP. Also currently learning Python and C#
 - 💞️ I’m looking to collaborate on both front end web development, full stack development and hopefully game & software building/coding in the future
 - 📫 How to reach me is via my email address at gpdarkviper@gmail.com
 
